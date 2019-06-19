@@ -10,8 +10,7 @@ function Driver(name, age, experience){
   this.experience=experience
 }
 
-function Scooter(year, color, model){
-  this.year=year
-  this.model=model
-  this.color=color
+function PickupLocation(address, city){
+  this.address=address
+  this.city=city
 }
